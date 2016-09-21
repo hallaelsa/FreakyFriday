@@ -1,6 +1,6 @@
 # Notater
-**bold**
-*italic*
+
+[http://freakyfriday-s315579.azurewebsites.net/](http://freakyfriday-s315579.azurewebsites.net/)
 
 ## Her er det jeg har lært av Tore:
 
@@ -23,6 +23,10 @@
 **inherit** bruker vi for å arve verdien som er satt høyere i hirarkiet (f.eks color)
 
 **calc** bruker vi når vi skal blande pixler og % (f.eks width: calc(67% - 10px))
+
+## Ekstra
+
+[Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 
 
 
