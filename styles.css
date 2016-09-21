@@ -5,31 +5,36 @@ body {
     margin: 0;
     background-color: #f0f1f3;
 }
-.header{
+
+.header {
     padding: 20px;
     color: #fff;
     background-color: #111;
     
 }
-.header h1{
+
+.header h1 {
     font-size: 50px;
     line-height: 150%;
     margin-top: -15px;
+    color: #f63393;
 }
-.header .subtitle{
+
+.header .subtitle {
     font-weight: normal;
     font-size: inherit;
     margin-top: -15px;
     margin-left: 15px;
 }
-.container{
+
+.container {
     width: 900px;
     margin: 0 auto;
     background-color: #fff;
     padding: 20px;
 }
 
-.container h2{
+.container h2 {
     margin-bottom: 20px;
     margin-top:20px;
     font-size: 30px;
@@ -47,11 +52,21 @@ body {
     display:block;
 
 }
-.cars header{
+.cars a:hover {
+    background-color: #ddd;
+    margin: -10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: #f63393;
+    color: #fff;
+}
+
+.cars header {
     font-size: 25px;
     line-height: 100%;
     margin-bottom: 10px;
     margin-top: 10px;
+
 
 }
 .cars img {
@@ -61,7 +76,7 @@ body {
    
 
 }
-.cars p{
+.cars p {
     width: calc(67% - 20px);
     float: left;
    
