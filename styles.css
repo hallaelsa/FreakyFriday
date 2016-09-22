@@ -27,6 +27,34 @@ body {
     margin-left: 15px;
 }
 
+.subheader {
+    background-color:#fff;
+    width: 900px;
+    margin:0 auto;
+    padding-top: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+.subheader li {
+    display:inline;
+}
+
+.subheader a {
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 20px;
+    color: #f63393;
+    margin-left:20px;
+    
+}
+
+
+
+.subheader a:hover{
+    color:#c5176d;
+}
+
 .container {
     width: 900px;
     margin: 0 auto;
