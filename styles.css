@@ -27,6 +27,14 @@ body {
     margin-left: 15px;
 }
 
+#logo {
+    width:70px;
+    height:50px;
+    float: right;
+    overflow: auto;
+    
+}
+
 .subheader {
     background-color:#fff;
     width: 900px;
@@ -47,8 +55,8 @@ body {
     color: #f63393;
     margin-left:20px;
     
+    
 }
-
 
 
 .subheader a:hover{
