@@ -56,10 +56,12 @@ body {
 }
 
 
-
-
 .subheader a:hover{
     color:#c5176d;
+}
+
+.bold {
+    font-weight:700;
 }
 
 .container {
