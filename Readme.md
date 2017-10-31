@@ -1,6 +1,7 @@
-# Notater
+# Min første nettside
+Dette er min første nettside laget med veiledning fra Tore.
 
-[http://freakyfriday-s315579.azurewebsites.net/](http://freakyfriday-s315579.azurewebsites.net/)
+# Notater
 
 ## Her er det jeg har lært av Tore:
 
